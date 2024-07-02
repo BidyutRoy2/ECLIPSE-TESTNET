@@ -11,7 +11,7 @@
 - Copy & Enter the command mentioned below
 
 ```bash
-wget https://raw.githubusercontent.com/BidyutRoy2/ECLIPSE-TESTNET/main/eclipse.sh && chmod +x eclipse.sh && ./eclipse.sh
+wget https://raw.githubusercontent.com/dxzenith/eclipse-testnet/main/eclipse.sh && chmod +x eclipse.sh && ./eclipse.sh
 ```
 
 - Save Your Phrase & Pubic Key
