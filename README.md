@@ -14,6 +14,9 @@
 wget https://github.com/BidyutRoy2/ECLIPSE-TESTNET/blob/main/eclipse.sh && chmod +x eclipse.sh && ./eclipse.sh
 ```
 
+- Save Your Phrase & Pubic Key
+- Import Your Phrase in Wallet
+
 - Fill this Form After Installation Complete : [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSfJQCFBKHpiy2HVw9lTjCj7k0BqNKnP6G1cd0YdKhaPLWD-AA/viewform?pli=1)
 
-- How to Run [Video Link HERE]()
+- How to Run [Video Link HERE](https://t.me/hiddengemnews/7002)
