@@ -6,7 +6,7 @@
   
 - Copy & Enter the command mentioned below
 
-```
+```bash
 wget https://github.com/BidyutRoy2/ECLIPSE-TESTNET/blob/main/eclipse.sh && chmod +x eclipse.sh && ./eclipse.sh
 ```
 
